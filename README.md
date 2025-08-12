@@ -1,4 +1,4 @@
-# Projeto Web 1 - Music Show
+# Music Show
 
 ![Status](https://img.shields.io/badge/status-conclu%C3%ADdo-green)
 ![Java](https://img.shields.io/badge/Java-17-blue)
